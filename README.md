@@ -1,2 +1,2 @@
 # Learning-Python
-Only some exercises
+Only some exercises. IN PORTUGUESE
